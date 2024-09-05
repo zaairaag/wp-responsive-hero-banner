@@ -1,0 +1,1 @@
+# wp-responsive-hero-banner
