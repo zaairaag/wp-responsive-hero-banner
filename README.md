@@ -1,7 +1,3 @@
-Aqui está a descrição para o README em português:
-
----
-
 # Responsive Hero Banner
 
 **Versão 1.1**  
@@ -39,7 +35,3 @@ Para usar este plugin, adicione o seguinte shortcode em suas postagens, páginas
 ## Estilos
 
 O plugin inclui um estilo básico, mas você pode modificá-lo ou estendê-lo editando a classe `.hero-banner` no CSS do seu tema.
-
----
-
-Sinta-se à vontade para ajustar conforme necessário!
